@@ -10,3 +10,15 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.task-item {
+    display: flex;
+    justify-content: space-between;
+}
+.task-list {
+    width: 300px;
+}
+
+.todo-container {
+    width: 300px;
+    background-color: lightpink;
+}
